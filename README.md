@@ -26,9 +26,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
