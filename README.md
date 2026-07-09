@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0058-length-of-last-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
