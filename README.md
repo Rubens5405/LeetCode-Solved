@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [2469-convert-the-temperature](https://github.com/Rubens5405/LeetCode-Solved/tree/master/2469-convert-the-temperature) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Rubens5405/LeetCode-Solved/tree/master/2525-categorize-box-according-to-criteria) |
 ## Two Pointers
 |  |
 | ------- |
