@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0070-climbing-stairs) |
 | [2469-convert-the-temperature](https://github.com/Rubens5405/LeetCode-Solved/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Rubens5405/LeetCode-Solved/tree/master/2525-categorize-box-according-to-criteria) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rubens5405/LeetCode-Solved/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0206-reverse-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rubens5405/LeetCode-Solved/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
