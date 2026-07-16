@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0500-keyboard-row) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [3941-password-strength](https://github.com/Rubens5405/LeetCode-Solved/tree/master/3941-password-strength) |
 ## String
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0344-reverse-string) |
+| [0500-keyboard-row](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0521-longest-uncommon-subsequence-i) |
 | [2390-removing-stars-from-a-string](https://github.com/Rubens5405/LeetCode-Solved/tree/master/2390-removing-stars-from-a-string) |
 | [3941-password-strength](https://github.com/Rubens5405/LeetCode-Solved/tree/master/3941-password-strength) |
