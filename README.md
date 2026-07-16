@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0202-happy-number) |
 | [2413-smallest-even-multiple](https://github.com/Rubens5405/LeetCode-Solved/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Rubens5405/LeetCode-Solved/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Rubens5405/LeetCode-Solved/tree/master/2525-categorize-box-according-to-criteria) |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/Rubens5405/LeetCode-Solved/tree/master/0202-happy-number) |
 | [3941-password-strength](https://github.com/Rubens5405/LeetCode-Solved/tree/master/3941-password-strength) |
 ## String
 |  |
